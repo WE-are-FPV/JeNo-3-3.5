@@ -19,30 +19,38 @@ Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) comm
 - [x] **Frame and standoffs NOT visible** in video feed, with any FPV camera
 - [x] **Props NOT visible** in video feed !
 - [x] Support 20x20 stacks as well as AiO (straight and 45° angled)
-* [x] **Customizable** (weight, arms, camera plates)
+- [x] **Customizable** (weight, arms, camera plates)
 
 ## Presentation
-The success of the JeNo 5.1" has led us to develop a little brother, in 3 and 3.5". This frame will therefore be just as comfortable for Freestyle as for cinematic shooting.
+The success of the [JeNo 5.1"](https://github.com/WE-are-FPV/JeNo-5.1) has led us to develop a little brother, in 3 and 3.5". This frame will therefore be just as comfortable for Freestyle as for cinematic shooting.
 
 On a 5" and larger, we might be tempted to keep an Action Cam, whereas on a compact and light machine, the DJI O3 reveals its full potential.
 
 The design of a frame of this size turned out to be more delicate than expected :
 
-* Weight is crucial
-* Strength and rigidity remain crucial points
-* Electronics are more exotic: 20x20 stack with separate FC and ESCs, AiO straight or at 45°, stack mounting in M2 or M3...
-- The low inertia of this format makes the gyro of the O3 camera very sensitive; vibration tolerance is much lower than in 5"
-- Clear FOV: no spacers, frame, or visible propellers in the FPV feed
-- After several iterations, we have arrived at a first version of the JeNo that ticks all these boxes! This is the 3" Classic version, unibody with a 4mm bottom plate.
+* **Weight** is crucial
+* **Strength** and **rigidity** remain major concerns
+* **Electronics** are more **diversified** : 20x20 stack with separate FC and ESCs, AiO straight or at 45°, stack mounting with M2 or M3...
+* The low inertia of this format makes the gyro of the O3 camera very sensitive; vibration tolerance is much lower than for a 5" quads
+* **Clear FOV** : no spacers, frame, or visible propellers in the FPV feed
 
-We were initially not enthusiastic about the unibody design, but this approach has proven to be an excellent compromise. With a thickness of 4mm at the bottom plate level, we obtain exceptional strength and flight behavior worthy of a 5". The assembly remains easy, and the absence of separate arms allows for sliding a 20x20 stack while taking advantage of the 20mm height of the bus.
+After several iterations, we have come to a first version of the JeNo that **ticks all these boxes !** This is the **3" Classic version, unibody with a 4mm bottom plate**.
 
+We were initially not enthusiastic about the unibody design, but this approach has proven to be an **excellent compromise**. With a thickness of 4mm for the bottom plate, we get **exceptional strength** and **flight behavior** worthy of a 5". The assembly remains easy, and the absence of separate arms allows for sliding a 20x20 stack while taking advantage of the 20mm height of the bus.
 
-
-
-
+![WE are FPV banner](./images/JeNo3_Profile1.jpg)
 
 
+**Other versions** are available :
+
+* 3.5" (unibody) (warning : props visible in the FPV feed)
+* 3" (unibody) **Light**
+* 3" et 3.5 " with **separate arms**
+* 4": this is a variation created by Kennytak, and the necessary files are available on [his page](https://www.printables.com/fr/model/516544-jeno-4-unibody-drone-frame-for-dji03-airunit-vista). The props remain slightly visible in the FPV feed.
+
+The **JeNo 3** follows in the footsteps of its big brother : the front cage tilted at 25° provides a **clear FOV**. Notches are provided to slide in any type of **ND filter**, and the propellers are not visible in the FPV feed or in HD recording.
+
+Two types of camera plates are available : **full carbon** or **soft-mounted**. Note that to benefit from Gyroflow (or RockSteady) stabilization, it is **imperative to opt for the soft-mounted camera plates**.
 
 Finally, as this frame was designed by members of the [WE are FPV](https://www.wearefpv.fr/) community, a "WaF edition" is available (the logo is engraved on the bottom plate). Join us on the WAF forum in [the official JeNo 3-3.5" thread](https://forum.wearefpv.fr/topic/20437-jeno-335-un-ch%C3%A2ssis-compact-taill%C3%A9-pour-le-dji-o3/) to discuss it further.
 
