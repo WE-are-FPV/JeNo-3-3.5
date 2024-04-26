@@ -164,7 +164,28 @@ It is recommended to use 5mm diameter standoffs, especially for those that will 
 The JeNo allows the use of non-slip straps thanks to its strap slots. You can also use a LiPo pad if desired.
 
 ## Building/Assembly guide
+Some **clarifications** before assembling the frame:
 
+* If your electronics require M3 screws, you will need to slightly enlarge the holes, originally designed for M2 (taking care not to inhale carbon dust)
+* You can use the front standoffs to attach a capacitor and/or an RX :
+
+![JeNo 3 Capacitor and RX](./images/JeNo3_CapRX.jpg)
+
+* The RX antenna can be attached to the front of the quad using zip ties (TPU front bumper also allow to fix the RX antenna)
+
+![JeNo 3 RX Antenna](./images/JeNo3_RX_ZipTie.jpg)
+
+The assembly is simple (you can also find the detailed [assembly instructions in PDF format](https://github.com/WE-are-FPV/JeNo-3-3.5/blob/main/docs/Assembly_Guide_JeNo3_en.pdf) among the project files) :
+
+![JeNo 3 Assembly step 01](./images/Assembly_step_01.jpg)
+
+![JeNo 3 Assembly step 02](./images/Assembly_step_02.jpg)
+
+![JeNo 3 Assembly step 03](./images/Assembly_step_03.jpg)
+
+![JeNo 3 Assembly step 04](./images/Assembly_step_04.jpg)
+
+![JeNo 3 Assembly step 05](./images/Assembly_step_05.jpg)
 
 ## Inspiration
 
