@@ -80,7 +80,26 @@ The JeNo is also available in [5.1-6" version](https://github.com/WE-are-FPV/JeN
 
 ## Customization
 
-The JeNo is customizable, offering several **options** to best adapt to different needs and individual preferences.
+The JeNo is customizable, offering several **options** to best adapt to different needs and individual preferences : 
+
+* **3" Unibody 4mm Classic :** This is the first version made available. Designed for **freestyle** due to its strength, it will also be suitable for **cinematic** use with soft-mounted camera plates. 100% clear FOV. This version uses **M3** screws and spacers.
+* **3" Unibody 4mm Light :** Sacrificing some strength and rigidity for more lightweight, thus increasing autonomy, and switching to **M2** screws/spacers. A chassis more oriented towards cinematic use. Note that M2 spacers are more difficult to source.
+* **3.5" Unibody 4mm :** For those seeking a bit more **inertia and stability**, or possibly for mid-range use. _**Note: the propellers are very slightly visible in the FPV feed. With black propellers, they will be practically invisible.**_
+* **Separate arms :** For those wary of unibody designs ;) a 3" version and a 3.5" version (only the length of the arms changes). _**Note: AIO strongly recommended; stacks will struggle to fit due to the low remaining height in the bus = low profile !**_
+
+Two versions of 25° **camera plates** are available: **freestyle** (full carbon) or **cinematic** (soft-mounted). Please note that to benefit from Gyroflow (or RockSteady) stabilization, **soft mounting is mandatory**.
+
+A [high tilt version](https://www.thingiverse.com/thing:6584519) (40°) is available in community remixes (by [Bard Fpv](https://www.youtube.com/@bardfpv)).
+
+`By default, we have left the stack holes at a 2mm diameter (M2). If your stack uses M3 screws, you will need to enlarge these holes. Please note, carbon dust is hazardous, to avoid inhaling it, run a trickle of water while drilling/filing.`
+
+For your information, we have tested this frame with the following setup:
+
+* **Recommended Motors :** 1404, 4000 to 4500KV for 3"
+* **Recommended Batteries :** 4S / 550mAh for Freestyle, up to 850mAh for cinematic cruising
+* **Recommended Props :** T3x2.5x3 & HQ T3x3x3
+
+Below, you will find a complete build example as well as several flight videos with this setup.
 
 ## Buy it or cut it !
 
