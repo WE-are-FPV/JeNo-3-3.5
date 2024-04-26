@@ -24,6 +24,12 @@ Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) comm
 ## Presentation
 
 
+Finally, as this frame was designed by members of the [WE are FPV](https://www.wearefpv.fr/) community, a "WaF edition" is available (the logo is engraved on the bottom plate). Join us on the WAF forum in [the official JeNo 3-3.5" thread](https://forum.wearefpv.fr/topic/20437-jeno-335-un-ch%C3%A2ssis-compact-taill%C3%A9-pour-le-dji-o3/) to discuss it further.
+
+![WE are FPV banner](./images/WAF_Banner.jpg)
+
+The JeNo is also available in [5.1-6" version](https://github.com/WE-are-FPV/JeNo-5.1) and [[7" version](https://github.com/WE-are-FPV/JeNo-7).
+
 ## Detaileds specifications
 
 ||| 
