@@ -74,16 +74,20 @@ In addition to the carbon fiber, you will need the following hardware to complet
 
 Here is an overview of vibration distribution on the 3 axes for the JeNo "classic Freestyle." This is indeed the unfiltered gyro signal for a 3 minutes freestyle flight :
 
-![JeNo Blackbox](./images/JeNo_BB.jpg)
+![JeNo Blackbox](./images/JeNo3_Blackbox.jpg)
 
 ## Videos
-Freestyle with JeNo :
+Flight preview of the JeNo 3" Unibody Classic 4mm version (Cinematic, camera plates soft-mounted), stabilized with Gyroflow :
 
-[![JeNo 5.1 Maiden](https://img.youtube.com/vi/Fe3_sJf0j6o/0.jpg)](https://www.youtube.com/watch?v=Fe3_sJf0j6o "JeNo 5.1 Maiden - Click to Watch!")
+[![JeNo 3" Cinematic](./images/JeNo3_video_cine.jpg)](https://www.youtube.com/watch?v=Bba9C5jj3qI "JeNo 5.1 Maiden - Click to Watch!")
 
-JeNo review on WE are FPV (French) :
+Flight preview of the JeNo 3" Unibody Classic 4mm version (Freestyle) :
 
-[![JeNo review on WE are FPV (French)](https://img.youtube.com/vi/RtPTJsno8Kg/0.jpg)](https://www.youtube.com/watch?v=RtPTJsno8Kg "JeNo review on WE are FPV (French) - Click to Watch!")
+[![JeNo 3" Freestyle](./images/JeNo3_video_freestyle.jpg)](https://www.youtube.com/watch?v=a-RcqAQSSa8 "JeNo review on WE are FPV (French) - Click to Watch!")
+
+Flight preview of the JeNo 3" Unibody Classic 4mm version (Bando):
+
+[![JeNo 3" Bando](./images/JeNo3_video_bando.jpg)](https://www.youtube.com/watch?v=Iw_Cw9_1gNU "JeNo review on WE are FPV (French) - Click to Watch!")
 
 ## Builds examples
 
