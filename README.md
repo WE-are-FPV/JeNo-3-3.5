@@ -113,6 +113,8 @@ In addition to the carbon fiber, you will need the following hardware to complet
 
 It is recommended to use 5mm diameter standoffs, especially for those that will serve as support for TPU (backpack and capacitor). Moletted spacers can still be used, but the TPU supports will need to be modified accordingly.
 
+`Attention: For the Light version, you will need to provide M2 spacers and corresponding screws (M2 instead of M3)`
+
 | Quantity | Description | Details |
 | :---: | :--- | :--- |
 | 6 | M3x20mm standoffs | for the body |
