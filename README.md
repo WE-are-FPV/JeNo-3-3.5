@@ -156,7 +156,7 @@ It is recommended to use 5mm diameter standoffs, especially for those that will 
 
 | Quantity | Description | Details |
 | :---: | :--- | :--- |
-| 5 | Pressnuts (Flywoo or SourceOne alike) | 4 for the arms, 1 for the middle plate |
+| 5 | Pressnuts ([Flywoo](https://www.drone-fpv-racer.com/flywoo-m3-clinch-nuts-20-pcs-7965.html?aff=64&id_campaign=13#/1063-couleur-titane) or SourceOne alike) | 4 for the arms, 1 for the middle plate |
 | 5 | M3x10mm screws | for the pressnuts |
 
 **Fasten the lipos**
