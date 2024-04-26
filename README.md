@@ -22,9 +22,9 @@ Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) comm
 - [x] **Customizable** (weight, arms, camera plates)
 
 ## Presentation
-The success of the [JeNo 5.1"](https://github.com/WE-are-FPV/JeNo-5.1) has led us to develop a little brother, in 3 and 3.5". This frame will therefore be just as comfortable for Freestyle as for cinematic shooting.
+The success of the [JeNo 5.1"](https://github.com/WE-are-FPV/JeNo-5.1) has led us to develop a little brother, in **3 and 3.5"**. This frame will therefore be just **as comfortable for Freestyle as for cinematic** shooting.
 
-On a 5" and larger, we might be tempted to keep an Action Cam, whereas on a compact and light machine, the DJI O3 reveals its full potential.
+On a 5" and larger, we might be tempted to keep an Action Cam, whereas on a **compact and light machine**, the **DJI O3 reveals its full potential**.
 
 The design of a frame of this size turned out to be more delicate than expected :
 
@@ -62,23 +62,21 @@ The JeNo is also available in [5.1-6" version](https://github.com/WE-are-FPV/JeN
 
 ||| 
 | :--- | :--- |
-| **Geometry** | Wide-X | 
-| **Props size** | 5.1" (or 6" with optional arms) | 
-| **Weight** | 120 à 145 g depending on options, with screws | 
-| **Arms** | 6 mm | 
-| **Body height** | 30 mm | 
-| **Stack height** | 21.5 mm | 
-| **Bottom plate** | 2 or 2.5 mm depending on options | 
-| **Middle plate** | 2.5 mm | 
+| **Geometry** | **Wide-X** | 
+| **Props size** | 3 to 3.5" (depending on the versions) | 
+| **Weight** | **40 to 55 g** depending on the versions, including screws | 
+| **Arms** | **4mm** for unibody, **3mm** for separate arms | 
+| **Body height** | 20 mm | 
+| **Stack height** | 20 mm (unibody) | 
+| **Bottom plate** | **4mm** for unibody, **2mm** for separate arms | 
+| **Middle plate** | 2 mm (separate arms) | 
 | **Top plate** | 2 mm | 
-| **Camera plates** | 3 mm | 
-| **Motors mounting** | 16 mm | 
-| **Camera** | 20 mm (DJI), Micro, Nano. Clear FOV. Ajustable.
-| **Main stack** | 30.5 mm x 30.5 mm and 20 mm x 20 mm | 
-| **Back stack** | 20 mm x 20 mm and 25 .5 x 25.5 mm | 
-| **Supported VTX** | Analogic, DJI Vista, DJI Air Unit O3, WalkSnail, HDZero… | 
+| **Camera plates** | 2.5 mm | 
+| **Motors mounting** | 9 to 12 mm | 
+| **Camera** | 20 mm (DJI), Micro, Nano. **Clear FOV**. Ajustable.
+| **Main stack** | 25.5 mm x 25.5 mm (M2) AiO and 20 mm x 20 mm (M2) stack | 
+| **Supported VTX** | Analogic, DJI Vista, **DJI Air Unit O3**, WalkSnail, HDZero… | 
 | **Strap passage** | Yes | 
-| **XT60 passage** | Yes (front and back) + passage for a zip tie | 
 
 ## Customization
 
