@@ -188,13 +188,30 @@ The assembly is simple (you can also find the detailed [assembly instructions in
 ![JeNo 3 Assembly step 05](./images/Assembly_step_05.jpg)
 
 ## Inspiration
+It is primarily inspired by its big brother, the [JeNo 5.1"](https://github.com/WE-are-FPV/JeNo-5.1), especially for the camera plates system.
 
+## Betaflight Preset ?
+For the JeNo 5.1", we provided a preset.
+
+For the 3", we will not share a preset in the short term because there are **too many factors** that can alter the quad's behavior:
+
+* Bottom plate thickness
+* Stack VS AiO (the latter often being much noisier)
+* M3 screws and spacers vs M2
+* 3" props vs 3.5"
+* Capacitor or not
+* etc.
+
+If, with a little more perspective, we see that a preset is feasible, we will share it. In the meantime, we have shared some settings that should work with most setups in [this post](https://forum.wearefpv.fr/topic/20437-jeno-335-un-ch%C3%A2ssis-compact-taill%C3%A9-pour-le-dji-o3/page/10/#comment-239643).
+
+However, one piece of advice, if you find your quad too challenging to handle in confined spaces, do not hesitate to adjust the throttle curve by adding a bit of expo around the "hover point" :
+
+![JeNo 3 Throttle curve](./images/JeNo3_EasyThrottleCurve.jpg)
 
 ## Blackbox
+Here is an overview of vibration distribution on the 3 axes for the JeNo 3" 4mm Unibody. This is indeed the **unfiltered** gyro signal freestyle flight :
 
-Here is an overview of vibration distribution on the 3 axes for the JeNo "classic Freestyle." This is indeed the unfiltered gyro signal for a 3 minutes freestyle flight :
-
-![JeNo Blackbox](./images/JeNo3_Blackbox.jpg)
+![JeNo 3 Blackbox](./images/JeNo3_Blackbox.jpg)
 
 ## Videos
 Flight preview of the JeNo 3" Unibody Classic 4mm version (Cinematic, camera plates soft-mounted), stabilized with Gyroflow :
