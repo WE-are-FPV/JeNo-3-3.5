@@ -19,7 +19,7 @@ Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) comm
 - [x] **Frame and standoffs NOT visible** in video feed, with any FPV camera
 - [x] **Props NOT visible** in video feed !
 - [x] Support 20x20 stacks as well as AiO (straight and 45° angled)
-- [x] **Customizable** (weight, arms, camera plates)
+* [x] **Customizable** (weight, arms, camera plates)
 
 ## Presentation
 The success of the JeNo 5.1" has led us to develop a little brother, in 3 and 3.5". This frame will therefore be just as comfortable for Freestyle as for cinematic shooting.
@@ -31,9 +31,9 @@ The design of a frame of this size turned out to be more delicate than expected 
 * Weight is crucial
 * Strength and rigidity remain crucial points
 * Electronics are more exotic: 20x20 stack with separate FC and ESCs, AiO straight or at 45°, stack mounting in M2 or M3...
-* The low inertia of this format makes the gyro of the O3 camera very sensitive; vibration tolerance is much lower than in 5"
-* Clear FOV: no spacers, frame, or visible propellers in the FPV feed
-* After several iterations, we have arrived at a first version of the JeNo that ticks all these boxes! This is the 3" Classic version, unibody with a 4mm bottom plate.
+- The low inertia of this format makes the gyro of the O3 camera very sensitive; vibration tolerance is much lower than in 5"
+- Clear FOV: no spacers, frame, or visible propellers in the FPV feed
+- After several iterations, we have arrived at a first version of the JeNo that ticks all these boxes! This is the 3" Classic version, unibody with a 4mm bottom plate.
 
 We were initially not enthusiastic about the unibody design, but this approach has proven to be an excellent compromise. With a thickness of 4mm at the bottom plate level, we obtain exceptional strength and flight behavior worthy of a 5". The assembly remains easy, and the absence of separate arms allows for sliding a 20x20 stack while taking advantage of the 20mm height of the bus.
 
