@@ -109,6 +109,58 @@ You can get it cut in your favourite flavour and source the materials yourself. 
 
 In addition to the carbon fiber, you will need the following hardware to complete the assembly of the frame.
 
+**Standoffs**
+
+It is recommended to use 5mm diameter standoffs, especially for those that will serve as support for TPU (backpack and capacitor). Moletted spacers can still be used, but the TPU supports will need to be modified accordingly.
+
+| Quantity | Description | Details |
+| :---: | :--- | :--- |
+| 6 | M3x20mm standoffs | for the body |
+| 2 | M3x20mm standoffs | for the camera |
+
+**Stack materials**
+
+`Attention: M2 screws are mentioned here because they are most commonly found in this format. However, some 20x20 stacks use M3 screws. In this case, you will need to enlarge the stack holes.`
+
+* If 25.5x25.5 AiO
+
+| Quantity | Description | Details |
+| :---: | :--- | :--- |
+| 4 | M2x16mm | for the stack |
+| 4 | M2 nuts for stack screws | |
+
+* If 20x20 stack
+
+| Quantity | Description | Details |
+| :---: | :--- | :--- |
+| 4 | M2x20mm countersunk screws | for the stack |
+| 4 | M2 nuts for stack screws | |
+
+**Frame materials**
+
+| Quantity | Description | Details |
+| :---: | :--- | :--- |
+| 6 | M3x6/8mm countersunk screws | for the top plate |
+| 10 | M3x8mm screws (titanium if possible) | for the bottom and camera plates |
+
+**Additional materials**
+
+| Quantity | Description | Details |
+| :---: | :--- | :--- |
+| 16 | M2x7mm screws (if using arms protections) or M2x6mm (if no TPU) | for the motors |
+| 4 | M2x3mm screws if soft mounted or M2x4mm if NOT softmounted | for the camera |
+
+**Additional materials for separate arms versions**
+
+| Quantity | Description | Details |
+| :---: | :--- | :--- |
+| 5 | Pressnuts (Flywoo or SourceOne alike) | 4 for the arms, 1 for the middle plate |
+| 5 | M3x10mm screws | for the pressnuts |
+
+**Fasten the lipos**
+
+The JeNo allows the use of non-slip straps thanks to its strap slots. You can also use a LiPo pad if desired.
+
 ## Building/Assembly guide
 
 
