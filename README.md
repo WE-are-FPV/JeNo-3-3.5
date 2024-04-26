@@ -52,7 +52,7 @@ The **JeNo 3** follows in the footsteps of its big brother : the front cage tilt
 
 Two types of camera plates are available : **full carbon** or **soft-mounted**. Note that to benefit from Gyroflow (or RockSteady) stabilization, it is **imperative to opt for the soft-mounted camera plates**.
 
-Finally, as this frame was designed by members of the [WE are FPV](https://www.wearefpv.fr/) community, a "WaF edition" is available (the logo is engraved on the bottom plate). Join us on the WAF forum in [the official JeNo 3-3.5" thread](https://forum.wearefpv.fr/topic/20437-jeno-335-un-ch%C3%A2ssis-compact-taill%C3%A9-pour-le-dji-o3/) to discuss it further.
+Finally, as this frame was designed by members of the [WE are FPV](https://www.wearefpv.fr/) **community**, a **"WaF edition"** is available (the logo is engraved on the bottom plate). Join us on the WAF forum in [the official JeNo 3-3.5" thread](https://forum.wearefpv.fr/topic/20437-jeno-335-un-ch%C3%A2ssis-compact-taill%C3%A9-pour-le-dji-o3/) to discuss it further.
 
 ![WE are FPV banner](./images/WAF_Banner.jpg)
 
