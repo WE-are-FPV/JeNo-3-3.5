@@ -42,15 +42,15 @@
 - [x] **Customizable** (weight, arms, camera plates)
 
 ## Presentation
-The success of the [JeNo 5.1"](https://github.com/WE-are-FPV/JeNo-5.1) has led us to develop a little brother, in **3 and 3.5"**. This frame will therefore be just **as comfortable for Freestyle as for cinematic** shooting.
+The success of the [JeNo 5.1"](https://github.com/WE-are-FPV/JeNo-5.1) has led us to develop a little brother, in **3 and 3.5"** form factor. This frame will therefore be just **as comfortable for Freestyle as for cinematic** shooting.
 
-On a 5" and larger, we might be tempted to keep an Action Cam, whereas on a **compact and light machine**, the **DJI O3 reveals its full potential**.
+On 5" and larger builds, we might be tempted to keep an Action Cam, whereas on a **compact and light machine**, the **DJI O3 reveals its full potential**.
 
 The design of a frame of this size turned out to be more delicate than expected :
 
 * **Weight** is crucial
 * **Strength** and **rigidity** remain major concerns
-* **Electronics** are more **diversified** : 20x20 stack with separate FC and ESCs, AiO straight or at 45°, stack mounting with M2 or M3...
+* **Electronics** are more **diversified** : 20x20 stack with separate FC and ESCs, AiO straight or angled at 45°, stack mounting with M2 or M3...
 * The low inertia of this format makes the gyro of the O3 camera very sensitive; vibration tolerance is much lower than for a 5" quads
 * **Clear FOV** : no spacers, frame, or visible propellers in the FPV feed
 
@@ -63,7 +63,7 @@ We were initially not enthusiastic about the unibody design, but this approach h
 
 **Other versions** are available :
 
-* 3.5" (unibody) (warning : props visible in the FPV feed)
+* 3.5" (unibody) (warning : tips of props slightly visible in the FPV feed)
 * 3" (unibody) **Light**
 * 3" et 3.5 " with **separate arms**
 * 4": this is a variation created by Kennytak, and the necessary files are available on [his page](https://www.printables.com/fr/model/516544-jeno-4-unibody-drone-frame-for-dji03-airunit-vista). The props remain slightly visible in the FPV feed.
@@ -102,8 +102,8 @@ The JeNo is also available in [5.1-6" version](https://github.com/WE-are-FPV/JeN
 
 The JeNo is customizable, offering several **options** to best adapt to different needs and individual preferences : 
 
-* **3" Unibody 4mm Classic :** This is the first version made available. Designed for **freestyle** due to its strength, it will also be suitable for **cinematic** use with soft-mounted camera plates. 100% clear FOV. This version uses **M3** screws and spacers.
-* **3" Unibody 4mm Light :** Sacrificing some strength and rigidity for more lightweight, thus increasing autonomy, and switching to **M2** screws/spacers. A chassis more oriented towards cinematic use. Note that M2 spacers are more difficult to source.
+* **3" Unibody 4mm Classic :** This is the first version made available. Designed for **freestyle** due to its strength, it will also be suitable for **cinematic** use with soft-mounted camera plates. 100% clear FOV. This version uses **M3** screws and standoffs.
+* **3" Unibody 4mm Light :** Sacrificing some strength and rigidity for more lightweight, thus increasing autonomy, and switching to **M2** screws/spacers. A chassis more oriented towards cinematic use. Note that M2 standoffs are more difficult to source.
 * **3.5" Unibody 4mm :** For those seeking a bit more **inertia and stability**, or possibly for mid-range use. _**Note: the propellers are very slightly visible in the FPV feed. With black propellers, they will be practically invisible.**_
 * **Separate arms :** For those wary of unibody designs ;) a 3" version and a 3.5" version (only the length of the arms changes). _**Note: AIO strongly recommended; stacks will struggle to fit due to the low remaining height in the body = low profile !**_
 
@@ -148,9 +148,10 @@ In addition to the carbon fiber, you will need the following hardware to complet
 
 **Standoffs**
 
-It is recommended to use 5mm diameter standoffs, especially for those that will serve as support for TPU (backpack and capacitor). Moletted spacers can still be used, but the TPU supports will need to be modified accordingly.
+It is recommended to use 5mm diameter standoffs, especially for those that will serve as support for TPU (backpack and capacitor). Moletted standoffs can still be used, but the TPU supports will need to be modified accordingly.
 
-`Attention: For the Light version, you will need to provide M2 spacers and corresponding screws (M2 instead of M3)`
+> [!WARNING]
+> Attention: For the Light version, you will need to provide M2 standoffs and corresponding screws (M2 instead of M3)
 
 | Quantity | Description | Details |
 | :---: | :--- | :--- |
@@ -159,7 +160,8 @@ It is recommended to use 5mm diameter standoffs, especially for those that will 
 
 **Stack materials**
 
-`Attention: M2 screws are mentioned here because they are most commonly found in this format. However, some 20x20 stacks use M3 screws. In this case, you will need to enlarge the stack holes.`
+> [!WARNING]
+> Attention: M2 screws are mentioned here because they are most commonly found in this format. However, some 20x20 stacks use M3 screws. In this case, you will need to enlarge the stack holes.
 
 * If 25.5x25.5 AiO
 
