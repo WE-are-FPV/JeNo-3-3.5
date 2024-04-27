@@ -280,4 +280,4 @@ In addition to the TPU options available on this page, you will find here some T
 
 `Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.`
 
-**28/04/2023 :** Version 1.0
+* **28/04/2023 :** Version 1.0
