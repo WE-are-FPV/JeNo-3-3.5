@@ -114,7 +114,8 @@ Two versions of 25° **camera plates** are available: **freestyle** (full carbon
 
 A [high tilt version](https://www.thingiverse.com/thing:6584519) (40°) is available in community remixes (by [Bard Fpv](https://www.youtube.com/@bardfpv)).
 
-`By default, we have left the stack holes at a 2mm diameter (M2). If your stack uses M3 screws, you will need to enlarge these holes. Please note, carbon dust is hazardous, to avoid inhaling it, run a trickle of water while drilling/filing.`
+> [!IMPORTANT]
+By default, we have left the stack holes at a 2mm diameter (M2). If your stack uses M3 screws, you will need to enlarge these holes. Please note, carbon dust is hazardous, to avoid inhaling it, run a trickle of water while drilling/filing.
 
 For your information, we have tested this frame with the following setup:
 
