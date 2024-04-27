@@ -289,7 +289,7 @@ The JeNo was designed by :
 * Jerome / Jéjé FPV - [Youtube](https://www.youtube.com/@jejefpv)
 
 ## TPU
-Among the downloadable files, you will find a variety of TPU to protect your JeNo 3" :
+Among the [downloadable files](https://github.com/WE-are-FPV/JeNo-7/tree/main/tpu), you will find a variety of TPU to protect your JeNo 3" :
 
 * **VTX Antenna** mounts
 * Front and back **bumpers**
