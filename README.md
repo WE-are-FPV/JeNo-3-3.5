@@ -138,8 +138,9 @@ The ["dxf"](https://github.com/WE-are-FPV/JeNo-3-3.5/tree/main/dxf) folder conta
 
 > [!NOTE]
 > Each file contains all parts.
+> All camera plates versions are included in the files.
 
-["extras"](https://github.com/WE-are-FPV/JeNo-3-3.5/tree/main/dxf/extras) folder will contain specific and optinal parts.
+["extras"](https://github.com/WE-are-FPV/JeNo-3-3.5/tree/main/dxf/extras) folder will contain specific and optional parts.
 
 ## Bill of materials
 
