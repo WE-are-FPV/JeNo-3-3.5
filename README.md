@@ -36,7 +36,7 @@ The design of a frame of this size turned out to be more delicate than expected 
 
 After several iterations, we have come to a first version of the JeNo that **ticks all these boxes !** This is the **3" Classic version, unibody with a 4mm bottom plate**.
 
-We were initially not enthusiastic about the unibody design, but this approach has proven to be an **excellent compromise**. With a thickness of 4mm for the bottom plate, we get **exceptional strength** and **flight behavior** worthy of a 5". The assembly remains easy, and the absence of separate arms allows for sliding a 20x20 stack while taking advantage of the 20mm height of the bus.
+We were initially not enthusiastic about the unibody design, but this approach has proven to be an **excellent compromise**. With a thickness of 4mm for the bottom plate, we get **exceptional strength** and **flight behavior** worthy of a 5". The assembly remains easy, and the absence of separate arms allows for sliding a 20x20 stack while taking advantage of the 20mm height of the body.
 
 ![WE are FPV banner](./images/JeNo3_Profile1.jpg)
 
@@ -85,7 +85,7 @@ The JeNo is customizable, offering several **options** to best adapt to differen
 * **3" Unibody 4mm Classic :** This is the first version made available. Designed for **freestyle** due to its strength, it will also be suitable for **cinematic** use with soft-mounted camera plates. 100% clear FOV. This version uses **M3** screws and spacers.
 * **3" Unibody 4mm Light :** Sacrificing some strength and rigidity for more lightweight, thus increasing autonomy, and switching to **M2** screws/spacers. A chassis more oriented towards cinematic use. Note that M2 spacers are more difficult to source.
 * **3.5" Unibody 4mm :** For those seeking a bit more **inertia and stability**, or possibly for mid-range use. _**Note: the propellers are very slightly visible in the FPV feed. With black propellers, they will be practically invisible.**_
-* **Separate arms :** For those wary of unibody designs ;) a 3" version and a 3.5" version (only the length of the arms changes). _**Note: AIO strongly recommended; stacks will struggle to fit due to the low remaining height in the bus = low profile !**_
+* **Separate arms :** For those wary of unibody designs ;) a 3" version and a 3.5" version (only the length of the arms changes). _**Note: AIO strongly recommended; stacks will struggle to fit due to the low remaining height in the body = low profile !**_
 
 Two versions of 25° **camera plates** are available: **freestyle** (full carbon) or **cinematic** (soft-mounted). Please note that to benefit from Gyroflow (or RockSteady) stabilization, **soft mounting is mandatory**.
 
@@ -190,7 +190,7 @@ The assembly is simple (you can also find the detailed [assembly instructions in
 ## Inspiration
 It is primarily inspired by its big brother, the [JeNo 5.1"](https://github.com/WE-are-FPV/JeNo-5.1), especially for the camera plates system.
 
-## Betaflight Preset ?
+## Tuning, Betaflight Preset ?
 For the JeNo 5.1", we provided a preset.
 
 For the 3", we will not share a preset in the short term because there are **too many factors** that can alter the quad's behavior:
@@ -216,18 +216,30 @@ Here is an overview of vibration distribution on the 3 axes for the JeNo 3" 4mm 
 ## Videos
 Flight preview of the JeNo 3" Unibody Classic 4mm version (Cinematic, camera plates soft-mounted), stabilized with Gyroflow :
 
-[![JeNo 3" Cinematic](./images/JeNo3_video_cine.jpg)](https://www.youtube.com/watch?v=Bba9C5jj3qI "JeNo 5.1 Maiden - Click to Watch!")
+[![JeNo 3" Cinematic](./images/JeNo3_video_cine.jpg)](https://www.youtube.com/watch?v=Bba9C5jj3qI "JeNo 3 Cinematic - Click to Watch!")
 
 Flight preview of the JeNo 3" Unibody Classic 4mm version (Freestyle) :
 
-[![JeNo 3" Freestyle](./images/JeNo3_video_freestyle.jpg)](https://www.youtube.com/watch?v=a-RcqAQSSa8 "JeNo review on WE are FPV (French) - Click to Watch!")
+[![JeNo 3" Freestyle](./images/JeNo3_video_freestyle.jpg)](https://www.youtube.com/watch?v=a-RcqAQSSa8 "JeNo 3 Freestyle - Click to Watch!")
 
 Flight preview of the JeNo 3" Unibody Classic 4mm version (Bando):
 
-[![JeNo 3" Bando](./images/JeNo3_video_bando.jpg)](https://www.youtube.com/watch?v=Iw_Cw9_1gNU "JeNo review on WE are FPV (French) - Click to Watch!")
+[![JeNo 3" Bando](./images/JeNo3_video_bando.jpg)](https://www.youtube.com/watch?v=Iw_Cw9_1gNU "JeNo 3 Bando - Click to Watch!")
+
+JeNo 3" review on WE are FPV (French) :
+
+[![JeNo 3" Review](./images/JeNo3_video_review.jpg)](https://www.youtube.com/watch?v=Iw_Cw9_1gNU "JeNo 3 Review - Click to Watch!")
 
 ## Builds examples
+You can find many build examples on [WE are FPV's DroneBuilds](https://forum.wearefpv.fr/71-dronebuilds/) and [RotorBuilds](https://rotorbuilds.com) :
 
+* fr : [JeNo 3 Prototype](https://forum.wearefpv.fr/topic/20327-proto-jeno-3/) (this one)
+* fr : [JeNo 3" AiO AT32/AM32](https://forum.wearefpv.fr/topic/21637-jeno-3-aio-at32am32/)
+* fr : [JeNo 3.5" O3](https://forum.wearefpv.fr/topic/20480-jeno-35_o3/)
+* fr : [JeNo 3" (6s)](https://forum.wearefpv.fr/topic/22032-jeno-3-mais-en-6s-et-sous-testost%C3%A9rone/)
+* fr : [Jeno 3" (Kiss)](https://forum.wearefpv.fr/topic/21647-jeno-3-kiss/)
+* fr : [jeno3 light](https://forum.wearefpv.fr/topic/22677-jeno3-light/)
+* ...
 
 ## Authors
 
@@ -237,17 +249,35 @@ The JeNo was designed by :
 * Jerome / Jéjé FPV - [Youtube](https://www.youtube.com/@jejefpv)
 
 ## TPU
+Among the downloadable files, you will find a variety of TPU to protect your JeNo 3" :
+
+* **VTX Antenna** mounts
+* Front and back **bumpers**
+* **Nano camera** adapter
+* Camera **softmount**
+* Several arms **protections**
 
 
 ## Community (remixes and TPU)
 
 **Fork/remix**
 
+* [JeNo 4"](https://www.printables.com/fr/model/516544-jeno-4-freestyleracing-drone-frame-for-dji03-airun) by [Kennytak](https://www.printables.com/fr/@Kennytak_77000)
+
 **TPU**
 
 In addition to the TPU options available on this page, you will find here some TPU designs created by the community.
+
+* [TPU set for JeNo 3.5"](https://www.printables.com/fr/model/533320-tpu-pour-jeno-35) by Xavier Robin
+* [GPS and O3 antenna mounts](https://www.printables.com/fr/model/595138-jeno-3-antenne-option-gps-18x18x8) by Olivier
+* [Shark fin to protect the lipo](https://www.thingiverse.com/thing:6416888) by vfr150878
+* [Backpack O3 antenna + GPS M10 mini](https://www.printables.com/fr/model/794568-jeno-3) by [Cirbaf](https://www.printables.com/fr/@Cirbaf_1779503)
+* [Arms/motors bando protections](https://www.printables.com/fr/model/649175-bando-boots-jeno-3p) by Julien
+* [Runcam Thumb mount](https://www.printables.com/fr/model/647336-mount-runcam-thumb-pour-jeno3)by [Tamm'c](https://www.printables.com/fr/@TammC_1383304)
+* [TPU set + 40° high tilt camera plates](https://www.thingiverse.com/thing:6584519) by [Bard Fpv](https://www.youtube.com/@bardfpv)
 
 ## Changelog
 
 `Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.`
 
+**28/04/2023 :** Version 1.0
