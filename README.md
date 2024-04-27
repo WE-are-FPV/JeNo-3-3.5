@@ -5,7 +5,8 @@
 
 ![JeNo 3 - Front view](./images/JeNo3_Front.jpg)
 
-Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) community, the JeNo is already flown by hundreds of pilots. The French version of the project is available on [Printables](https://www.printables.com/fr/model/459702-jeno-335-drone-frame). Note that a [5.1-6" version](https://github.com/WE-are-FPV/JeNo-5.1) and a [7" version](https://github.com/WE-are-FPV/JeNo-7) of the JeNo exist.
+> [!NOTE]
+> Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) community, the JeNo is already flown by hundreds of pilots. The French version of the project is available on [Printables](https://www.printables.com/fr/model/459702-jeno-335-drone-frame). Note that a [5.1-6" version](https://github.com/WE-are-FPV/JeNo-5.1) and a [7" version](https://github.com/WE-are-FPV/JeNo-7) of the JeNo exist.
 
 ![JeNo classic - 3D render](./images/Assembly_step_Full.jpg)
 
@@ -58,7 +59,7 @@ Finally, as this frame was designed by members of the [WE are FPV](https://www.w
 
 The JeNo is also available in [5.1-6" version](https://github.com/WE-are-FPV/JeNo-5.1) and [7" version](https://github.com/WE-are-FPV/JeNo-7).
 
-## Detaileds specifications
+## Detailed specifications
 
 ||| 
 | :--- | :--- |
@@ -278,6 +279,7 @@ In addition to the TPU options available on this page, you will find here some T
 
 ## Changelog
 
-`Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.`
+> [!TIP]
+> Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.
 
 * **28/04/2023 :** Version 1.0
