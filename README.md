@@ -107,7 +107,10 @@ The JeNo is customizable, offering several **options** to best adapt to differen
 * **3.5" Unibody 4mm :** For those seeking a bit more **inertia and stability**, or possibly for mid-range use. _**Note: the propellers are very slightly visible in the FPV feed. With black propellers, they will be practically invisible.**_
 * **Separate arms :** For those wary of unibody designs ;) a 3" version and a 3.5" version (only the length of the arms changes). _**Note: AIO strongly recommended; stacks will struggle to fit due to the low remaining height in the body = low profile !**_
 
-Two versions of 25° **camera plates** are available: **freestyle** (full carbon) or **cinematic** (soft-mounted). Please note that to benefit from Gyroflow (or RockSteady) stabilization, **soft mounting is mandatory**.
+Two versions of 25° **camera plates** are available: **freestyle** (full carbon) or **cinematic** (soft-mounted). 
+
+> [!IMPORTANT]
+> Please note that to benefit from Gyroflow (or RockSteady) stabilization, **soft mounting is mandatory**.
 
 A [high tilt version](https://www.thingiverse.com/thing:6584519) (40°) is available in community remixes (by [Bard Fpv](https://www.youtube.com/@bardfpv)).
 
