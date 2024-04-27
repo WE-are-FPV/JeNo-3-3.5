@@ -268,7 +268,7 @@ Flight preview of the JeNo 3" Unibody Classic 4mm version (Bando):
 
 JeNo 3" review on WE are FPV (French) :
 
-[![JeNo 3" Review](./images/JeNo3_video_review.jpg)](https://www.youtube.com/watch?v=Iw_Cw9_1gNU "JeNo 3 Review - Click to Watch!")
+[![JeNo 3" Review](./images/JeNo3_video_review.jpg)](https://www.youtube.com/watch?v=-c4rGYWvYhU "JeNo 3 Review - Click to Watch!")
 
 ## Builds examples
 You can find many build examples on [WE are FPV's DroneBuilds](https://forum.wearefpv.fr/71-dronebuilds/) and [RotorBuilds](https://rotorbuilds.com) :
