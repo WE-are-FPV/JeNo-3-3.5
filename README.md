@@ -126,7 +126,20 @@ Below, you will find a complete build example as well as several flight videos w
 
 ## Buy it or cut it !
 
-You can get it cut in your favourite flavour and source the materials yourself. Like the 5.1" version, the JeNo 3" should be available from Drone FPV Racer in a near future.
+Like the 5.1" version, the JeNo 3" should be available from Drone FPV Racer in a near future.
+
+The ["dxf"](https://github.com/WE-are-FPV/JeNo-3-3.5/tree/main/dxf) folder contains all the files you need to get it cut in your favourite flavour :
+
+* JeNo_3inch_M3.dxf : Classic 3" 4mm unibody frame
+* JeNo_3inch_Unibody_light_M2.dxf : Light 3" 4mm unibody frame
+* JeNo_3.5inch_M3.dxf : Classic 3.5" 4mm unibody frame
+* JeNo_3inch_multiplates_M3.dxf : Separate arms 3" frame
+* JeNo_35inch_multiplates_M3.dxf : Separate arms 3.5" frame 
+
+> [!NOTE]
+> Each file contains all parts.
+
+["extras"](https://github.com/WE-are-FPV/JeNo-3-3.5/tree/main/dxf/extras) folder will contain specific and optinal parts.
 
 ## Bill of materials
 
