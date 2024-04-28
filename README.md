@@ -39,7 +39,7 @@
 - [x] **Frame and standoffs NOT visible** in video feed, with any FPV camera
 - [x] **Props NOT visible** in video feed !
 - [x] Support 20x20 stacks as well as AiO (straight and 45° angled)
-- [x] **Customizable** (weight, arms, camera plates)
+- [x] **Customizable** (weight, size, camera plates, unibody or not)
 
 ## Presentation
 The success of the [JeNo 5.1"](https://github.com/WE-are-FPV/JeNo-5.1) has led us to develop a little brother, in **3 and 3.5"** form factor. This frame will therefore be just **as comfortable for Freestyle as for cinematic** shooting.
