@@ -306,7 +306,7 @@ Among the [downloadable files](https://github.com/WE-are-FPV/JeNo-3-3.5/tree/mai
 
 **TPU**
 
-In addition to the TPU options available on this page, you will find here some TPU designs created by the community.
+In addition to the TPU options available on [this repo](https://github.com/WE-are-FPV/JeNo-3-3.5/tree/main/tpu), you will find here some TPU designs created by the community.
 
 * [TPU set for JeNo 3.5"](https://www.printables.com/fr/model/533320-tpu-pour-jeno-35) by Xavier Robin
 * [GPS and O3 antenna mounts](https://www.printables.com/fr/model/595138-jeno-3-antenne-option-gps-18x18x8) by Olivier
