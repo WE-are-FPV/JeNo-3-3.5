@@ -315,6 +315,8 @@ In addition to the TPU options available on this page, you will find here some T
 * [Arms/motors bando protections](https://www.printables.com/fr/model/649175-bando-boots-jeno-3p) by Julien
 * [Runcam Thumb mount](https://www.printables.com/fr/model/647336-mount-runcam-thumb-pour-jeno3)by [Tamm'c](https://www.printables.com/fr/@TammC_1383304)
 * [TPU set + 40° high tilt camera plates](https://www.thingiverse.com/thing:6584519) by [Bard Fpv](https://www.youtube.com/@bardfpv)
+* [Front bumper](https://www.printables.com/fr/model/876097-bumper-jeno-3) by [Nox](https://www.printables.com/fr/@NOX_1685274)
+* [M10 Mini Support, Cap, ViFly Finder, O3 Antenna](https://www.printables.com/fr/@NnJj_1076330/models) by [Nn Jj](https://www.printables.com/fr/@NnJj_1076330)
 
 ## Changelog
 
