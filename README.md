@@ -273,6 +273,10 @@ JeNo 3" review on WE are FPV (French) :
 [![JeNo 3" Review](./images/JeNo3_video_review.jpg)](https://www.youtube.com/watch?v=-c4rGYWvYhU "JeNo 3 Review - Click to Watch!")
 
 ## Builds examples
+
+Find numerous examples of builds on the _**DroneBuilds**_ page of WE are FPV.
+[![DroneBuilds](./images/DroneBuilds-WaF.png)](https://forum.wearefpv.fr/71-dronebuilds/ "DroneBuilds - Click to Access!")
+
 You can find many build examples on [WE are FPV's DroneBuilds](https://forum.wearefpv.fr/71-dronebuilds/) :
 
 * fr : [JeNo 3 Prototype](https://forum.wearefpv.fr/topic/20327-proto-jeno-3/) (this one)
