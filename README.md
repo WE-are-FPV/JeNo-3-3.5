@@ -217,6 +217,9 @@ Some **clarifications** before assembling the frame:
 
 ![JeNo 3 RX Antenna](./images/JeNo3_RX_ZipTie.jpg)
 
+Find numerous examples of builds on the _**DroneBuilds**_ page of WE are FPV.
+[![DroneBuilds](./images/DroneBuilds-WaF.png)](https://forum.wearefpv.fr/71-dronebuilds/ "DroneBuilds - Click to Access!")
+
 The assembly is simple (you can also find the detailed [assembly instructions in PDF format](https://github.com/WE-are-FPV/JeNo-3-3.5/blob/main/docs/Assembly_Guide_JeNo3_en.pdf) among the project files) :
 
 ![JeNo 3 Assembly step 01](./images/Assembly_step_01.jpg)
@@ -273,9 +276,6 @@ JeNo 3" review on WE are FPV (French) :
 [![JeNo 3" Review](./images/JeNo3_video_review.jpg)](https://www.youtube.com/watch?v=-c4rGYWvYhU "JeNo 3 Review - Click to Watch!")
 
 ## Builds examples
-
-Find numerous examples of builds on the _**DroneBuilds**_ page of WE are FPV.
-[![DroneBuilds](./images/DroneBuilds-WaF.png)](https://forum.wearefpv.fr/71-dronebuilds/ "DroneBuilds - Click to Access!")
 
 You can find many build examples on [WE are FPV's DroneBuilds](https://forum.wearefpv.fr/71-dronebuilds/) :
 
