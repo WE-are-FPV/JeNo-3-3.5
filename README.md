@@ -206,6 +206,10 @@ It is recommended to use 5mm diameter standoffs, especially for those that will 
 The JeNo allows the use of non-slip straps thanks to its strap slots. You can also use a LiPo pad if desired.
 
 ## Building/Assembly guide
+
+Find numerous examples of builds on the _**DroneBuilds**_ page of WE are FPV.
+[![DroneBuilds](./images/DroneBuilds-WaF.png)](https://forum.wearefpv.fr/71-dronebuilds/ "DroneBuilds - Click to Access!")
+
 Some **clarifications** before assembling the frame:
 
 * If your electronics require M3 screws, you will need to slightly enlarge the holes, originally designed for M2 (taking care not to inhale carbon dust)
@@ -216,9 +220,6 @@ Some **clarifications** before assembling the frame:
 * The RX antenna can be attached to the front of the quad using zip ties (TPU front bumper also allow to fix the RX antenna)
 
 ![JeNo 3 RX Antenna](./images/JeNo3_RX_ZipTie.jpg)
-
-Find numerous examples of builds on the _**DroneBuilds**_ page of WE are FPV.
-[![DroneBuilds](./images/DroneBuilds-WaF.png)](https://forum.wearefpv.fr/71-dronebuilds/ "DroneBuilds - Click to Access!")
 
 The assembly is simple (you can also find the detailed [assembly instructions in PDF format](https://github.com/WE-are-FPV/JeNo-3-3.5/blob/main/docs/Assembly_Guide_JeNo3_en.pdf) among the project files) :
 
