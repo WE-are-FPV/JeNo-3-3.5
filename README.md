@@ -325,6 +325,7 @@ In addition to the TPU options available on [this repo](https://github.com/WE-ar
 * [Front bumper](https://www.printables.com/fr/model/876097-bumper-jeno-3) by [Nox](https://www.printables.com/fr/@NOX_1685274)
 * [M10 Mini Support, Cap, ViFly Finder, O3 Antenna](https://www.printables.com/fr/@NnJj_1076330/models) by [Nn Jj](https://www.printables.com/fr/@NnJj_1076330)
 * [Full TPU set, compatible with COB LEDs](https://makerworld.com/en/models/551883) by [BinaryWhite](https://www.youtube.com/@focal3drone803)
+* [Propguards to turn the JeNo 3 into a Cinewhoop](https://www.printables.com/fr/model/991129-jeno-3-cinewhoop-cage) by [Nn Jj](https://www.printables.com/fr/@NnJj_1076330)
 
 ## Changelog
 
