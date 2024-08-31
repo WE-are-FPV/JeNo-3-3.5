@@ -326,9 +326,9 @@ In addition to the TPU options available on [this repo](https://github.com/WE-ar
 * [M10 Mini Support, Cap, ViFly Finder, O3 Antenna](https://www.printables.com/fr/@NnJj_1076330/models) by [Nn Jj](https://www.printables.com/fr/@NnJj_1076330)
 * [Full TPU set, compatible with COB LEDs](https://makerworld.com/en/models/551883) by [BinaryWhite](https://www.youtube.com/@focal3drone803)
 * [Propguards to turn the JeNo 3 into a Cinewhoop](https://www.printables.com/fr/model/991129-jeno-3-cinewhoop-cage) by [Nn Jj](https://www.printables.com/fr/@NnJj_1076330)
-* [Kit de TPU](https://www.printables.com/fr/model/894556-jeno-3-tpu-pack) par [Nono31](https://www.printables.com/fr/@Nono31_454985)
-* [Support buzzer/LED HGLRC](https://www.printables.com/fr/model/964655-jeno_3inch_antenne-hglrc-ws2812b-beeperled) par [Bruce Vanderro / Rawaï](https://www.printables.com/fr/@BruceVanderr_2315800)
-* [Backpack O3 / ViFly Finder Mini](https://www.printables.com/fr/model/991436-jeno-3-support-antenne-03-buzzer-vifly-finder-mini) par [jrvaille](https://www.printables.com/fr/@jrvaille_2317118)
+* [TPU set](https://www.printables.com/fr/model/894556-jeno-3-tpu-pack) by [Nono31](https://www.printables.com/fr/@Nono31_454985)
+* [Mount for buzzer/LED HGLRC](https://www.printables.com/fr/model/964655-jeno_3inch_antenne-hglrc-ws2812b-beeperled) by [Bruce Vanderro / Rawaï](https://www.printables.com/fr/@BruceVanderr_2315800)
+* [Backpack O3 / ViFly Finder Mini](https://www.printables.com/fr/model/991436-jeno-3-support-antenne-03-buzzer-vifly-finder-mini) by [jrvaille](https://www.printables.com/fr/@jrvaille_2317118)
 
 
 
