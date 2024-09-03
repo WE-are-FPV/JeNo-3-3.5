@@ -131,6 +131,10 @@ It is up to you : you can get it cut or you can get a classic or cine version di
 
 * [JeNo 3" by DFR](https://www.drone-fpv-racer.com/jeno-3-frame-kit-we-are-fpv-12958.html?aff=64&id_campaign=13) (affiliate link)
 
+The JeNo 3" and all its variations are also available from [CNC Madness](https://cncdrones.com/WE-are-FPV_c_118.html) (Canada).
+
+Of course, you can directly contact your favourite carbon fiber cutting service.
+
 The ["dxf"](https://github.com/WE-are-FPV/JeNo-3-3.5/tree/main/dxf) folder contains all the files you need to get it **cut** in your favourite flavour :
 
 * **JeNo_3inch_M3.dxf :** Classic 3" 4mm unibody frame
