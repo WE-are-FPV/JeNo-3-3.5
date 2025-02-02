@@ -1,4 +1,6 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+> [!NOTE]
+> Current version : **1.5.1** (read [changelog](#changelog) for details)
 
 ![JeNo 3 - Front view](./images/JeNo3_Front.jpg)
 
@@ -15,6 +17,7 @@
 * [Key features](#key-features)
 * [Presentation](#presentation)
 * [Detailed specifications](#detailed-specifications)
+* [Versions and files](#versions-and-files)
 * [Customization](#customization)
 * [Buy it or cut it !](#buy-it-or-cut-it-)
 * [Bill of materials](#bill-of-materials)
@@ -33,9 +36,9 @@
 - [x] **Sturdiness** and **rigidity**
 - [x] Excellent flight **performances**, easy to tune
 - [x] **Wide-X** geometry
-- [x] Perfect DJI **Air Unit O3** camera integration
+- [x] Perfect DJI **Air Unit O3 or O4 Pro** camera integration
 - [x] Optional soft mounting of the camera for effective Gyroflow stabilization.
-- [x] Designed for : DJI Vista/AU O3, WalkSnail, HDZero, Analogic
+- [x] Designed for : DJI Vista/AU O3/AU O4 Pro, WalkSnail, HDZero, Analogic
 - [x] **Frame and standoffs NOT visible** in video feed, with any FPV camera
 - [x] **Props NOT visible** in video feed !
 - [x] Support 20x20 stacks as well as AiO (straight and 45° angled)
@@ -44,14 +47,14 @@
 ## Presentation
 The success of the [JeNo 5.1"](https://github.com/WE-are-FPV/JeNo-5.1) has led us to develop a little brother, in **3 and 3.5"** form factor. This frame will therefore be just **as comfortable for Freestyle as for cinematic** shooting.
 
-On 5" and larger builds, we might be tempted to keep an Action Cam, whereas on a **compact and light machine**, the **DJI O3 reveals its full potential**.
+On 5" and larger builds, we might be tempted to keep an Action Cam, whereas on a **compact and light machine**, the **DJI O3/O4 Pro reveals its full potential**.
 
 The design of a frame of this size turned out to be more delicate than expected :
 
 * **Weight** is crucial
 * **Strength** and **rigidity** remain major concerns
 * **Electronics** are more **diversified** : 20x20 stack with separate FC and ESCs, AiO straight or angled at 45°, stack mounting with M2 or M3...
-* The low inertia of this format makes the gyro of the O3 camera very sensitive; vibration tolerance is much lower than for a 5" quads
+* The low inertia of this format makes the gyro of the O3/O4 Pro camera very sensitive; vibration tolerance is much lower than for a 5" quads
 * **Clear FOV** : no spacers, frame, or visible propellers in the FPV feed
 
 After several iterations, we have come to a first version of the JeNo that **ticks all these boxes !** This is the **3" Classic version, unibody with a 4mm bottom plate**.
@@ -70,13 +73,15 @@ We were initially not enthusiastic about the unibody design, but this approach h
 
 The **JeNo 3** follows in the footsteps of its big brother : the front cage tilted at 25° provides a **clear FOV**. Notches are provided to slide in any type of **ND filter**, and the propellers are not visible in the FPV feed or in HD recording.
 
+Be cautious, though—when using an O4 Pro, make sure to get vertical ND filters, like [those from GEPRC](https://geprc.com/product/geprc-dji-o4-air-unit-pro-filter/).
+
 Two types of camera plates are available : **full carbon** or **soft-mounted**. Note that to benefit from Gyroflow (or RockSteady) stabilization, it is **imperative to opt for the soft-mounted camera plates**.
 
 Finally, as this frame was designed by members of the [WE are FPV](https://www.wearefpv.fr/) **community**, a **"WaF edition"** is available (the logo is engraved on the bottom plate). Join us on the WAF forum in [the official JeNo 3-3.5" thread](https://forum.wearefpv.fr/topic/20437-jeno-335-un-ch%C3%A2ssis-compact-taill%C3%A9-pour-le-dji-o3/) to discuss it further.
 
 ![WE are FPV banner](./images/WAF_Banner.jpg)
 
-The JeNo is also available in [5.1-6" version](https://github.com/WE-are-FPV/JeNo-5.1) and [7" version](https://github.com/WE-are-FPV/JeNo-7).
+The JeNo is also available in [5.1-6" version](https://github.com/WE-are-FPV/JeNo-5.1) and [7-8" version](https://github.com/WE-are-FPV/JeNo-7).
 
 ## Detailed specifications
 
@@ -95,8 +100,44 @@ The JeNo is also available in [5.1-6" version](https://github.com/WE-are-FPV/JeN
 | **Motors mounting** | 9 to 12 mm | 
 | **Camera** | 20 mm (DJI), Micro, Nano. **Clear FOV**. Ajustable.
 | **Main stack** | 25.5 mm x 25.5 mm (M2) AiO and 20 mm x 20 mm (M2) stack | 
-| **Supported VTX** | Analogic, DJI Vista, **DJI Air Unit O3**, WalkSnail, HDZero… | 
+| **Supported VTX** | Analogic, DJI Vista, **DJI Air Unit O3/O4 Pro**, WalkSnail, HDZero… | 
 | **Strap passage** | Yes | 
+
+## Versions and files
+
+### Versioning
+You will find the **current version** of the frame at the beginning of the description and the full [history of modifications](#changelog) at the end of the page.
+
+We strongly recommend always cutting the latest version to ensure you benefit from the most recent optimizations.
+
+The version **number format** is as follows :
+```
+<Major versions>.<Minor version>.<Revision>
+ex : 1.3.2
+```
+
+* **Revision :** This number is incremented in the case of minor modifications with no significant impact.
+* **Minor version :** This number is incremented for minor modifications that may potentially break compatibility with certain TPU parts.
+* **Major version :** This number is incremented for significant modifications that break compatibility at the carbon level.
+
+Since the creation of the JeNo 3", we have always strived to **maintain compatibility at the carbon level**. As a result, the version remains “1.x.y.”
+
+In practical terms, this means that if you have the very first version of the JeNo 3" and want to equip it with the **O4 Pro**, you only need to have new camera plates cut—they will be compatible with your frame version!
+
+**Note :** If you develop TPU parts for the JeNo, be sure to specify the version they are compatible with.
+
+### Files management
+To simplify things, we have reorganized the file structure. The files are now divided into **five groups** :
+
+* **01-FRAME :** Contains **models** describing the **frame** in DXF, STEP, and STL formats for the current version. Also contains a PDF file which is a reformatted version of the DXF.
+* **02-TPU :** Contains **TPU models** for the current frame version in STL format.
+* **03-FRAME-HISTORY :** Contains previous versions of the frame.
+* **04-TPU-HISTORY :** Contains TPU models that are no longer compatible with the current version.
+* **OTHER-FILES :** Contains documentation files, including the assembly manual and a description.
+
+The major change is that all options are now consolidated into a single file. This will make version management significantly easier for us.
+
+If you want to view the DXF file with all annotations, we recommend using the free software [DWG TrueView](https://www.autodesk.com/products/dwg-trueview/overview). If you prefer not to use it, the PDF version of the file will contain all the necessary information.
 
 ## Customization
 
@@ -107,12 +148,18 @@ The JeNo is customizable, offering several **options** to best adapt to differen
 * **3.5" Unibody 4mm :** For those seeking a bit more **inertia and stability**, or possibly for mid-range use. _**Note: the propellers are very slightly visible in the FPV feed. With black propellers, they will be practically invisible.**_
 * **Separate arms :** For those wary of unibody designs ;) a 3" version and a 3.5" version (only the length of the arms changes). _**Note: AIO strongly recommended; stacks will struggle to fit due to the low remaining height in the body = low profile !**_
 
-Two versions of 25° **camera plates** are available: **freestyle** (full carbon) or **cinematic** (soft-mounted). 
+Several versions of 25° camera plates are available :
+
+* **Freestyle** (full carbon): Optimized for the O3.
+* **Cinematic** (soft-mounted): Optimized for the O3.
+* **M2 versions** for the Light edition.
+* **Freestyle O4 Pro** (full carbon): Optimized for the O4 and compatible with the O3.
+* **Cinematic O4 Pro** (soft-mounted): Optimized for the O4 and compatible with the O3.
 
 > [!IMPORTANT]
 > Please note that to benefit from Gyroflow (or RockSteady) stabilization, **soft mounting is mandatory**.
 
-A [high tilt version](https://www.thingiverse.com/thing:6584519) (40°) is available in community remixes (by [Bard Fpv](https://www.youtube.com/@bardfpv)).
+A [high tilt version](https://www.thingiverse.com/thing:6584519) (40°) is available in community remixes (by [Bard Fpv](https://www.youtube.com/@bardfpv)) for the O3.
 
 > [!IMPORTANT]
 By default, we have left the stack holes at a 2mm diameter (M2). If your stack uses M3 screws, you will need to enlarge these holes. Please note, carbon dust is hazardous, to avoid inhaling it, run a trickle of water while drilling/filing.
@@ -127,27 +174,28 @@ Below, you will find a complete build example as well as several flight videos w
 
 ## Buy it or cut it !
 
-It is up to you : you can get it cut or you can get a classic or cine version directly from Drone FPV Racer :
+It is up to you : you can get it cut or you can get it from a shop. If you're not looking for a specific option, note that Drone FPV Racer offers the JeNo 3" in the classic version, along with all spare parts, prints, and lipo pads. La Camera Embarquée also offers the JeNo 3 and 3.5".
 
 * [JeNo 3" by DFR](https://www.drone-fpv-racer.com/jeno-3-frame-kit-we-are-fpv-12958.html?aff=64&id_campaign=13) (affiliate link)
+* [JeNo 3" by DFR](https://www.lacameraembarquee.fr/we-are-fpv/17773-chassis-we-are-fpv-jeno-3.html)
+* [JeNo 3.5" by DFR](https://www.lacameraembarquee.fr/we-are-fpv/17776-chassis-we-are-fpv-jeno-35.html)
 
 The JeNo 3" and all its variations are also available from [CNC Madness](https://cncdrones.com/WE-are-FPV_c_118.html) (Canada).
 
 Of course, you can directly contact your favourite carbon fiber cutting service.
 
-The ["dxf"](https://github.com/WE-are-FPV/JeNo-3-3.5/tree/main/dxf) folder contains all the files you need to get it **cut** in your favourite flavour :
+Note: Prices are often excellent in stores, but they don’t always offer the latest version.
 
-* **JeNo_3inch_M3.dxf :** Classic 3" 4mm unibody frame
-* **JeNo_3inch_Unibody_light_M2.dxf :** Light 3" 4mm unibody frame
-* **JeNo_3.5inch_M3.dxf :** Classic 3.5" 4mm unibody frame
-* **JeNo_3inch_multiplates_M3.dxf :** Separate arms 3" frame
-* **JeNo_35inch_multiplates_M3.dxf :** Separate arms 3.5" frame 
+The ["01-FRAME"](https://github.com/WE-are-FPV/JeNo-3-3.5/tree/main/01-FRAME) folder contains all the files you need to get it **cut** in your favourite flavour.
+
+Consult the **DXF file** of the frame (or the PDF version) to choose the version that interests you.
+
+Feel free to select a pre-made "Edition" (Classic, Light, or Bando), or mix different options and choose certain "extras".
+
+You will also need to choose a type of camera plates (classic, cine, etc.).
 
 > [!NOTE]
-> Each file contains all parts.
-> All camera plates versions are included in the files.
-
-["extras"](https://github.com/WE-are-FPV/JeNo-3-3.5/tree/main/dxf/extras) folder will contain specific and optional parts.
+> All parts versions are compatible with each others
 
 ## Bill of materials
 
@@ -225,7 +273,7 @@ Some **clarifications** before assembling the frame:
 
 ![JeNo 3 RX Antenna](./images/JeNo3_RX_ZipTie.jpg)
 
-The assembly is simple (you can also find the detailed [assembly instructions in PDF format](https://github.com/WE-are-FPV/JeNo-3-3.5/blob/main/docs/Assembly_Guide_JeNo3_en.pdf) among the project files) :
+The assembly is simple (you can also find the detailed [assembly instructions in PDF format](https://github.com/WE-are-FPV/JeNo-3-3.5/blob/main/OTHER-FILES/JeNo3_Assembly_Guide_EN.pdf) among the project files) :
 
 ![JeNo 3 Assembly step 01](./images/Assembly_step_01.jpg)
 
@@ -341,4 +389,14 @@ In addition to the TPU options available on [this repo](https://github.com/WE-ar
 > [!TIP]
 > Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.
 
-* **28/04/2023 :** Version 1.0
+* Version **1.2.1** (01/02/2025) : 
+  * Support for the **Air Unit O4 Pro** (camera plates + TPU)
+  * The new O4 camera plates are also compatible with the O3
+  * Les anciennes camera plates O3 restent plus petites
+* Version **1.1.0** :
+  * Removal of the holes on the arms, before the motors
+* Version **1.0** (28/04/2023) :
+  * Creation of this page
+  * Sharing of the 3" Unibody 4mm Classic version
+  * Sharing of the 3.5" Unibody 4mm Classic version
+  
