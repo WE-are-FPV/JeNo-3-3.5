@@ -156,10 +156,10 @@ Several versions of 25° camera plates are available :
 * **Freestyle O4 Pro** (full carbon): Optimized for the O4 and compatible with the O3.
 * **Cinematic O4 Pro** (soft-mounted): Optimized for the O4 and compatible with the O3.
 
+A [high tilt version](https://www.thingiverse.com/thing:6584519) (40°) is available in community remixes (by [Bard Fpv](https://www.youtube.com/@bardfpv)) for the O3.
+
 > [!IMPORTANT]
 > Please note that to benefit from Gyroflow (or RockSteady) stabilization, **soft mounting is mandatory**.
-
-A [high tilt version](https://www.thingiverse.com/thing:6584519) (40°) is available in community remixes (by [Bard Fpv](https://www.youtube.com/@bardfpv)) for the O3.
 
 > [!IMPORTANT]
 By default, we have left the stack holes at a 2mm diameter (M2). If your stack uses M3 screws, you will need to enlarge these holes. Please note, carbon dust is hazardous, to avoid inhaling it, run a trickle of water while drilling/filing.
