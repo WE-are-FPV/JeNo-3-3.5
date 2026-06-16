@@ -179,6 +179,7 @@ It is up to you : you can get it cut or you can get it from a shop. If you're no
 * [JeNo 3" by DFR](https://www.drone-fpv-racer.com/jeno-3-frame-kit-we-are-fpv-12958.html?aff=64&id_campaign=13) (affiliate link)
 * [JeNo 3" by DFR](https://www.lacameraembarquee.fr/we-are-fpv/17773-chassis-we-are-fpv-jeno-3.html)
 * [JeNo 3.5" by DFR](https://www.lacameraembarquee.fr/we-are-fpv/17776-chassis-we-are-fpv-jeno-35.html)
+* [FPV CNC Drone](https://fpvcncdrone.com/)
 
 The JeNo 3" and all its variations are also available from [CNC Madness](https://cncdrones.com/WE-are-FPV_c_118.html) (Canada).
 
